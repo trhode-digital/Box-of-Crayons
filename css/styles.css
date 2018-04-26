@@ -2101,6 +2101,7 @@ section {
   height: auto; }
 
 #description {
+  margin-top: 32px;
   margin-bottom: 32px; }
 
 #detail-one,
