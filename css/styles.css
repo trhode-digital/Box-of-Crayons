@@ -1,0 +1,2118 @@
+/* SASS Document */
+/* Import Custom Library */
+/* SCSS Document */
+/* SASS Document */
+/* Import Color Library */
+/* SASS Document */
+@import url("https://fonts.googleapis.com/css?family=Iceland");
+@import url("https://fonts.googleapis.com/css?family=Lusitana");
+@import url("https://fonts.googleapis.com/css?family=Sacramento");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+@import url("https://fonts.googleapis.com/css?family=VT323");
+.bdr-red {
+  border: 1pt solid #ed0a3f; }
+
+.bdr-radical-red {
+  border: 1pt solid #ff355e; }
+
+.bdr-maroon {
+  border: 1pt solid #c32148; }
+
+.bdr-wild-watermelon {
+  border: 1pt solid #fd5b78; }
+
+.bdr-scarlet {
+  border: 1pt solid #fd0e35; }
+
+.bdr-brick-red {
+  border: 1pt solid #c62d42; }
+
+.bdr-sunset-orange {
+  border: 1pt solid #fe4c40; }
+
+.bdr-bittersweet {
+  border: 1pt solid #fe6f5e; }
+
+.bdr-outrageous-orange {
+  border: 1pt solid #ff6037; }
+
+.bdr-vivid-tangerine {
+  border: 1pt solid #ff9980; }
+
+.bdr-burnt-orange {
+  border: 1pt solid #ff7f49; }
+
+.bdr-red-orange {
+  border: 1pt solid #ff681f; }
+
+.bdr-orange {
+  border: 1pt solid #ff8833; }
+
+.bdr-mango-tango {
+  border: 1pt solid #e77200; }
+
+.bdr-atomic-tangerine {
+  border: 1pt solid #ff9966; }
+
+.bdr-macaroni-cheese {
+  border: 1pt solid #ffb97b; }
+
+.bdr-neon-carrot {
+  border: 1pt solid #ff9933; }
+
+.bdr-yellow-orange {
+  border: 1pt solid #ffae42; }
+
+.bdr-banana-mania {
+  border: 1pt solid #fbe7b2; }
+
+.bdr-sunglow {
+  border: 1pt solid #ffCC33; }
+
+.bdr-goldenrod {
+  border: 1pt solid #fcd667; }
+
+.bdr-dandelion {
+  border: 1pt solid #fed85d; }
+
+.bdr-yellow {
+  border: 1pt solid #fbe870; }
+
+.bdr-laser-lemon {
+  border: 1pt solid #ffff66; }
+
+.bdr-unmellow-yellow {
+  border: 1pt solid #fdfc74; }
+
+.bdr-canary {
+  border: 1pt solid #ffff99; }
+
+.bdr-green-yellow {
+  border: 1pt solid #f1e788; }
+
+.bdr-spring-green {
+  border: 1pt solid #ecebbd; }
+
+.bdr-olive-green {
+  border: 1pt solid #b5b35c; }
+
+.bdr-yellow-green {
+  border: 1pt solid #c5E17a; }
+
+.bdr-inchworm {
+  border: 1pt solid #afe313; }
+
+.bdr-asparagus {
+  border: 1pt solid #7ba05b; }
+
+.bdr-granny-smith-apple {
+  border: 1pt solid #9de093; }
+
+.bdr-electric-lime {
+  border: 1pt solid #ccff00; }
+
+.bdr-screamin-green {
+  border: 1pt solid #66ff66; }
+
+.bdr-fern {
+  border: 1pt solid #63b76c; }
+
+.bdr-forest-green {
+  border: 1pt solid #5fa777; }
+
+.bdr-sea-green {
+  border: 1pt solid #93dfb8; }
+
+.bdr-green {
+  border: 1pt solid #1cac78; }
+
+.bdr-mountain-meadow {
+  border: 1pt solid #30ba8F; }
+
+.bdr-shamrock {
+  border: 1pt solid #45cea2; }
+
+.bdr-jungle-green {
+  border: 1pt solid #29ab87; }
+
+.bdr-caribbean-green {
+  border: 1pt solid #00cc99; }
+
+.bdr-tropical-rain-forest {
+  border: 1pt solid #00755e; }
+
+.bdr-pine-green {
+  border: 1pt solid #01786f; }
+
+.bdr-robin-egg-blue {
+  border: 1pt solid #00cccc; }
+
+.bdr- {
+  border: 1pt solid #95e0e8; }
+
+.bdr-turquoise-blue {
+  border: 1pt solid #6cdae7; }
+
+.bdr-sky-blue {
+  border: 1pt solid #76d7ea; }
+
+.bdr-outer-space {
+  border: 1pt solid #2d383a; }
+
+.bdr-blue-green {
+  border: 1pt solid #0095b7; }
+
+.bdr-pacific-blue {
+  border: 1pt solid #009dc4; }
+
+.bdr-cerulean {
+  border: 1pt solid #02a4d3; }
+
+.bdr-cornflower {
+  border: 1pt solid #93ccea; }
+
+.bdr-midnight-blue {
+  border: 1pt solid #00468c; }
+
+.bdr-navy-blue {
+  border: 1pt solid #0066cc; }
+
+.bdr-denim {
+  border: 1pt solid #1560bd; }
+
+.bdr-blue {
+  border: 1pt solid #0066ff; }
+
+.bdr-periwinkle {
+  border: 1pt solid #c3cde6; }
+
+.bdr-cadet-blue {
+  border: 1pt solid #a9b2c3; }
+
+.bdr-indigo {
+  border: 1pt solid #4f69c6; }
+
+.bdr-wild-blue-yonder {
+  border: 1pt solid #7a89ba; }
+
+.bdr-manatee {
+  border: 1pt solid #8d90a1; }
+
+.bdr-ultramarine-blue {
+  border: 1pt solid #3f26bf; }
+
+.bdr-blue-violet {
+  border: 1pt solid #6456b7; }
+
+.bdr-purple-heart {
+  border: 1pt solid #652dc1; }
+
+.bdr-royal-purple {
+  border: 1pt solid #6b3fa0; }
+
+.bdr-purple-mountain-majesty {
+  border: 1pt solid #9d81ba; }
+
+.bdr-violet-purple {
+  border: 1pt solid #926eae; }
+
+.bdr-wisteria {
+  border: 1pt solid #c9a0dc; }
+
+.bdr-vivid-violet {
+  border: 1pt solid #803790; }
+
+.bdr-fuchsia {
+  border: 1pt solid #c15fc1; }
+
+.bdr-plum {
+  border: 1pt solid #8e3179; }
+
+.bdr-shocking-pink {
+  border: 1pt solid #ff6eff; }
+
+.bdr-pink-flamingo {
+  border: 1pt solid #fc74fd; }
+
+.bdr-hot-magenta {
+  border: 1pt solid #ff00cc; }
+
+.bdr-purple-pizzazz {
+  border: 1pt solid #ff00cc; }
+
+.bdr-razzle-dazzle-rose {
+  border: 1pt solid #ee34d2; }
+
+.bdr-orchid {
+  border: 1pt solid #e29cd2; }
+
+.bdr-red-violet {
+  border: 1pt solid #bb3385; }
+
+.bdr-eggplant {
+  border: 1pt solid #614051; }
+
+.bdr-cerise {
+  border: 1pt solid #da3287; }
+
+.bdr-wild-strawberry {
+  border: 1pt solid #ff3399; }
+
+.bdr-magenta {
+  border: 1pt solid #f653a6; }
+
+.bdr-lavender {
+  border: 1pt solid #fbaed2; }
+
+.bdr-cotton-candy {
+  border: 1pt solid #ffb7d5; }
+
+.bdr-violet-red {
+  border: 1pt solid #f7468a; }
+
+.bdr-carnation-pink {
+  border: 1pt solid #ffa6c9; }
+
+.bdr-razzmatazz {
+  border: 1pt solid #e30b5c; }
+
+.bdr-pig-pink {
+  border: 1pt solid #fdd7e4; }
+
+.bdr-jazzberry-jam {
+  border: 1pt solid #a50b5e; }
+
+.bdr-blush {
+  border: 1pt solid #db5079; }
+
+.bdr-tickle-me-pink {
+  border: 1pt solid #fc80a5; }
+
+.bdr-salmon {
+  border: 1pt solid #ff91a4; }
+
+.bdr-mauvelous {
+  border: 1pt solid #f091a9; }
+
+.bdr-mahogany {
+  border: 1pt solid #cd4a4a; }
+
+.bdr-melon {
+  border: 1pt solid #febaad; }
+
+.bdr-pink-sherbert {
+  border: 1pt solid #f7a38e; }
+
+.bdr-burnt-sienna {
+  border: 1pt solid #e97451; }
+
+.bdr-brown {
+  border: 1pt solid #af593e; }
+
+.bdr-sepia {
+  border: 1pt solid #9e5b40; }
+
+.bdr-fuzzy-wuzzy {
+  border: 1pt solid #CC6666; }
+
+.bdr-chesnut {
+  border: 1pt solid #bc5d58; }
+
+.bdr-beaver {
+  border: 1pt solid #926f5b; }
+
+.bdr-tumbleweed {
+  border: 1pt solid #dea681; }
+
+.bdr-raw-sienna {
+  border: 1pt solid #d27d46; }
+
+.bdr-tan {
+  border: 1pt solid #d99a6c; }
+
+.bdr-desert-sand {
+  border: 1pt solid #edc9af; }
+
+.bdr-peach {
+  border: 1pt solid #ffcba4; }
+
+.bdr-apricot {
+  border: 1pt solid #fdd5b1; }
+
+.bdr-almond {
+  border: 1pt solid #eed9c4; }
+
+.bdr-shadow {
+  border: 1pt solid #837050; }
+
+.bdr-white {
+  border: 1pt solid #ffffff; }
+
+.bdr-timberwolf {
+  border: 1pt solid #d9d6cf; }
+
+.bdr-gray {
+  border: 1pt solid #8b8680; }
+
+.bdr-black {
+  border: 1pt solid #000000; }
+
+.bdr-gold {
+  border: 1pt solid #92926e; }
+
+.bdr-silver {
+  border: 1pt solid #c9c0bb; }
+
+.bdr-copper {
+  border: 1pt solid #da8a67; }
+
+.bdr-antique-brass {
+  border: 1pt solid #c88a65; }
+
+/* SASS Document */
+/* Import Color Library */
+/* SASS Document */
+.cnt-red {
+  background-color: #ed0a3f; }
+
+.cnt-radical-red {
+  background-color: #ff355e; }
+
+.cnt-maroon {
+  background-color: #c32148; }
+
+.cnt-wild-watermelon {
+  background-color: #fd5b78; }
+
+.cnt-scarlet {
+  background-color: #fd0e35; }
+
+.cnt-brick-red {
+  background-color: #c62d42; }
+
+.cnt-sunset-orange {
+  background-color: #fe4c40; }
+
+.cnt-bittersweet {
+  background-color: #fe6f5e; }
+
+.cnt-outrageous-orange {
+  background-color: #ff6037; }
+
+.cnt-vivid-tangerine {
+  background-color: #ff9980; }
+
+.cnt-burnt-orange {
+  background-color: #ff7f49; }
+
+.cnt-red-orange {
+  background-color: #ff681f; }
+
+.cnt-orange {
+  background-color: #ff8833; }
+
+.cnt-mango-tango {
+  background-color: #e77200; }
+
+.cnt-atomic-tangerine {
+  background-color: #ff9966; }
+
+.cnt-macaroni-cheese {
+  background-color: #ffb97b; }
+
+.cnt-neon-carrot {
+  background-color: #ff9933; }
+
+.cnt-yellow-orange {
+  background-color: #ffae42; }
+
+.cnt-banana-mania {
+  background-color: #fbe7b2; }
+
+.cnt-sunglow {
+  background-color: #ffCC33; }
+
+.cnt-goldenrod {
+  background-color: #fcd667; }
+
+.cnt-dandelion {
+  background-color: #fed85d; }
+
+.cnt-yellow {
+  background-color: #fbe870; }
+
+.cnt-laser-lemon {
+  background-color: #ffff66; }
+
+.cnt-unmellow-yellow {
+  background-color: #fdfc74; }
+
+.cnt-canary {
+  background-color: #ffff99; }
+
+.cnt-green-yellow {
+  background-color: #f1e788; }
+
+.cnt-spring-green {
+  background-color: #ecebbd; }
+
+.cnt-olive-green {
+  background-color: #b5b35c; }
+
+.cnt-yellow-green {
+  background-color: #c5E17a; }
+
+.cnt-inchworm {
+  background-color: #afe313; }
+
+.cnt-asparagus {
+  background-color: #7ba05b; }
+
+.cnt-granny-smith-apple {
+  background-color: #9de093; }
+
+.cnt-electric-lime {
+  background-color: #ccff00; }
+
+.cnt-screamin-green {
+  background-color: #66ff66; }
+
+.cnt-fern {
+  background-color: #63b76c; }
+
+.cnt-forest-green {
+  background-color: #5fa777; }
+
+.cnt-sea-green {
+  background-color: #93dfb8; }
+
+.cnt-green {
+  background-color: #1cac78; }
+
+.cnt-mountain-meadow {
+  background-color: #30ba8F; }
+
+.cnt-shamrock {
+  background-color: #45cea2; }
+
+.cnt-jungle-green {
+  background-color: #29ab87; }
+
+.cnt-caribbean-green {
+  background-color: #00cc99; }
+
+.cnt-tropical-rain-forest {
+  background-color: #00755e; }
+
+.cnt-pine-green {
+  background-color: #01786f; }
+
+.cnt-robin-egg-blue {
+  background-color: #00cccc; }
+
+.cnt-aquamarine {
+  background-color: #95e0e8; }
+
+.cnt-turquoise-blue {
+  background-color: #6cdae7; }
+
+.cnt-sky-blue {
+  background-color: #76d7ea; }
+
+.cnt-outer-space {
+  background-color: #2d383a; }
+
+.cnt-blue-green {
+  background-color: #0095b7; }
+
+.cnt-pacific-blue {
+  background-color: #009dc4; }
+
+.cnt-cerulean {
+  background-color: #02a4d3; }
+
+.cnt-cornflower {
+  background-color: #93ccea; }
+
+.cnt-midnight-blue {
+  background-color: #00468c; }
+
+.cnt-navy-blue {
+  background-color: #0066cc; }
+
+.cnt-denim {
+  background-color: #1560bd; }
+
+.cnt-blue {
+  background-color: #0066ff; }
+
+.cnt-periwinkle {
+  background-color: #c3cde6; }
+
+.cnt-cadet-blue {
+  background-color: #a9b2c3; }
+
+.cnt-indigo {
+  background-color: #4f69c6; }
+
+.cnt-wild-blue-yonder {
+  background-color: #7a89ba; }
+
+.cnt-manatee {
+  background-color: #8d90a1; }
+
+.cnt-ultramarine-blue {
+  background-color: #3f26bf; }
+
+.cnt-blue-violet {
+  background-color: #6456b7; }
+
+.cnt-purple-heart {
+  background-color: #652dc1; }
+
+.cnt-royal-purple {
+  background-color: #6b3fa0; }
+
+.cnt-purple-mountain-majesty {
+  background-color: #9d81ba; }
+
+.cnt-violet-purple {
+  background-color: #926eae; }
+
+.cnt-wisteria {
+  background-color: #c9a0dc; }
+
+.cnt-vivid-violet {
+  background-color: #803790; }
+
+.cnt-fuchsia {
+  background-color: #c15fc1; }
+
+.cnt-plum {
+  background-color: #8e3179; }
+
+.cnt-shocking-pink {
+  background-color: #ff6eff; }
+
+.cnt-pink-flamingo {
+  background-color: #fc74fd; }
+
+.cnt-hot-magenta {
+  background-color: #ff00cc; }
+
+.cnt-purple-pizzazz {
+  background-color: #ff00cc; }
+
+.cnt-razzle-dazzle-rose {
+  background-color: #ee34d2; }
+
+.cnt-orchid {
+  background-color: #e29cd2; }
+
+.cnt-red-violet {
+  background-color: #bb3385; }
+
+.cnt-eggplant {
+  background-color: #614051; }
+
+.cnt-cerise {
+  background-color: #da3287; }
+
+.cnt-wild-strawberry {
+  background-color: #ff3399; }
+
+.cnt-magenta {
+  background-color: #f653a6; }
+
+.cnt-lavender {
+  background-color: #fbaed2; }
+
+.cnt-cotton-candy {
+  background-color: #ffb7d5; }
+
+.cnt-violet-red {
+  background-color: #f7468a; }
+
+.cnt-carnation-pink {
+  background-color: #ffa6c9; }
+
+.cnt-razzmatazz {
+  background-color: #e30b5c; }
+
+.cnt-pig-pink {
+  background-color: #fdd7e4; }
+
+.cnt-jazzberry-jam {
+  background-color: #a50b5e; }
+
+.cnt-blush {
+  background-color: #db5079; }
+
+.cnt-tickle-me-pink {
+  background-color: #fc80a5; }
+
+.cnt-salmon {
+  background-color: #ff91a4; }
+
+.cnt-mauvelous {
+  background-color: #f091a9; }
+
+.cnt-mahogany {
+  background-color: #cd4a4a; }
+
+.cnt-melon {
+  background-color: #febaad; }
+
+.cnt-pink-sherbert {
+  background-color: #f7a38e; }
+
+.cnt-burnt-sienna {
+  background-color: #e97451; }
+
+.cnt-brown {
+  background-color: #af593e; }
+
+.cnt-sepia {
+  background-color: #9e5b40; }
+
+.cnt-fuzzy-wuzzy {
+  background-color: #CC6666; }
+
+.cnt-chesnut {
+  background-color: #bc5d58; }
+
+.cnt-beaver {
+  background-color: #926f5b; }
+
+.cnt-tumbleweed {
+  background-color: #dea681; }
+
+.cnt-raw-sienna {
+  background-color: #d27d46; }
+
+.cnt-tan {
+  background-color: #d99a6c; }
+
+.cnt-desert-sand {
+  background-color: #edc9af; }
+
+.cnt-peach {
+  background-color: #ffcba4; }
+
+.cnt-apricot {
+  background-color: #fdd5b1; }
+
+.cnt-almond {
+  background-color: #eed9c4; }
+
+.cnt-shadow {
+  background-color: #837050; }
+
+.cnt-white {
+  background-color: #ffffff; }
+
+.cnt-timberwolf {
+  background-color: #d9d6cf; }
+
+.cnt-gray {
+  background-color: #8b8680; }
+
+.cnt-black {
+  background-color: #000000; }
+
+.cnt-gold {
+  background-color: #92926e; }
+
+.cnt-silver {
+  background-color: #c9c0bb; }
+
+.cnt-copper {
+  background-color: #da8a67; }
+
+.cnt-antique-brass {
+  background-color: #c88a65; }
+
+/* SASS Document */
+/* Import Color Library */
+/* SASS Document */
+.out-red {
+  outline-color: #ed0a3f; }
+
+.out-radical-red {
+  outline-color: #ff355e; }
+
+.out-maroon {
+  outline-color: #c32148; }
+
+.out-wild-watermelon {
+  outline-color: #fd5b78; }
+
+.out-scarlet {
+  outline-color: #fd0e35; }
+
+.out-brick-red {
+  outline-color: #c62d42; }
+
+.out-sunset-orange {
+  outline-color: #fe4c40; }
+
+.out-bittersweet {
+  outline-color: #fe6f5e; }
+
+.out-outrageous-orange {
+  outline-color: #ff6037; }
+
+.out-vivid-tangerine {
+  outline-color: #ff9980; }
+
+.out-burnt-orange {
+  outline-color: #ff7f49; }
+
+.out-red-orange {
+  outline-color: #ff681f; }
+
+.out-orange {
+  outline-color: #ff8833; }
+
+.out-mango-tango {
+  outline-color: #e77200; }
+
+.out-atomic-tangerine {
+  outline-color: #ff9966; }
+
+.out-macaroni-cheese {
+  outline-color: #ffb97b; }
+
+.out-neon-carrot {
+  outline-color: #ff9933; }
+
+.out-yellow-orange {
+  outline-color: #ffae42; }
+
+.out-banana-mania {
+  outline-color: #fbe7b2; }
+
+.out-sunglow {
+  outline-color: #ffCC33; }
+
+.out-goldenrod {
+  outline-color: #fcd667; }
+
+.out-dandelion {
+  outline-color: #fed85d; }
+
+.out-yellow {
+  outline-color: #fbe870; }
+
+.out-laser-lemon {
+  outline-color: #ffff66; }
+
+.out-unmellow-yellow {
+  outline-color: #fdfc74; }
+
+.out-canary {
+  outline-color: #ffff99; }
+
+.out-green-yellow {
+  outline-color: #f1e788; }
+
+.out-spring-green {
+  outline-color: #ecebbd; }
+
+.out-olive-green {
+  outline-color: #b5b35c; }
+
+.out-yellow-green {
+  outline-color: #c5E17a; }
+
+.out-inchworm {
+  outline-color: #afe313; }
+
+.out-asparagus {
+  outline-color: #7ba05b; }
+
+.out-granny-smith-apple {
+  outline-color: #9de093; }
+
+.out-electric-lime {
+  outline-color: #ccff00; }
+
+.out-screamin-green {
+  outline-color: #66ff66; }
+
+.out-fern {
+  outline-color: #63b76c; }
+
+.out-forest-green {
+  outline-color: #5fa777; }
+
+.out-sea-green {
+  outline-color: #93dfb8; }
+
+.out-green {
+  outline-color: #1cac78; }
+
+.out-mountain-meadow {
+  outline-color: #30ba8F; }
+
+.out-shamrock {
+  outline-color: #45cea2; }
+
+.out-jungle-green {
+  outline-color: #29ab87; }
+
+.out-caribbean-green {
+  outline-color: #00cc99; }
+
+.out-tropical-rain-forest {
+  outline-color: #00755e; }
+
+.out-pine-green {
+  outline-color: #01786f; }
+
+.out-robin-egg-blue {
+  outline-color: #00cccc; }
+
+.out- {
+  outline-color: #95e0e8; }
+
+.out-turquoise-blue {
+  outline-color: #6cdae7; }
+
+.out-sky-blue {
+  outline-color: #76d7ea; }
+
+.out-outer-space {
+  outline-color: #2d383a; }
+
+.out-blue-green {
+  outline-color: #0095b7; }
+
+.out-pacific-blue {
+  outline-color: #009dc4; }
+
+.out-cerulean {
+  outline-color: #02a4d3; }
+
+.out-cornflower {
+  outline-color: #93ccea; }
+
+.out-midnight-blue {
+  outline-color: #00468c; }
+
+.out-navy-blue {
+  outline-color: #0066cc; }
+
+.out-denim {
+  outline-color: #1560bd; }
+
+.out-blue {
+  outline-color: #0066ff; }
+
+.out-periwinkle {
+  outline-color: #c3cde6; }
+
+.out-cadet-blue {
+  outline-color: #a9b2c3; }
+
+.out-indigo {
+  outline-color: #4f69c6; }
+
+.out-wild-blue-yonder {
+  outline-color: #7a89ba; }
+
+.out-manatee {
+  outline-color: #8d90a1; }
+
+.out-ultramarine-blue {
+  outline-color: #3f26bf; }
+
+.out-blue-violet {
+  outline-color: #6456b7; }
+
+.out-purple-heart {
+  outline-color: #652dc1; }
+
+.out-royal-purple {
+  outline-color: #6b3fa0; }
+
+.out-purple-mountain-majesty {
+  outline-color: #9d81ba; }
+
+.out-violet-purple {
+  outline-color: #926eae; }
+
+.out-wisteria {
+  outline-color: #c9a0dc; }
+
+.out-vivid-violet {
+  outline-color: #803790; }
+
+.out-fuchsia {
+  outline-color: #c15fc1; }
+
+.out-plum {
+  outline-color: #8e3179; }
+
+.out-shocking-pink {
+  outline-color: #ff6eff; }
+
+.out-pink-flamingo {
+  outline-color: #fc74fd; }
+
+.out-hot-magenta {
+  outline-color: #ff00cc; }
+
+.out-purple-pizzazz {
+  outline-color: #ff00cc; }
+
+.out-razzle-dazzle-rose {
+  outline-color: #ee34d2; }
+
+.out-orchid {
+  outline-color: #e29cd2; }
+
+.out-red-violet {
+  outline-color: #bb3385; }
+
+.out-eggplant {
+  outline-color: #614051; }
+
+.out-cerise {
+  outline-color: #da3287; }
+
+.out-wild-strawberry {
+  outline-color: #ff3399; }
+
+.out-magenta {
+  outline-color: #f653a6; }
+
+.out-lavender {
+  outline-color: #fbaed2; }
+
+.out-cotton-candy {
+  outline-color: #ffb7d5; }
+
+.out-violet-red {
+  outline-color: #f7468a; }
+
+.out-carnation-pink {
+  outline-color: #ffa6c9; }
+
+.out-razzmatazz {
+  outline-color: #e30b5c; }
+
+.out-pig-pink {
+  outline-color: #fdd7e4; }
+
+.out-jazzberry-jam {
+  outline-color: #a50b5e; }
+
+.out-blush {
+  outline-color: #db5079; }
+
+.out-tickle-me-pink {
+  outline-color: #fc80a5; }
+
+.out-salmon {
+  outline-color: #ff91a4; }
+
+.out-mauvelous {
+  outline-color: #f091a9; }
+
+.out-mahogany {
+  outline-color: #cd4a4a; }
+
+.out-melon {
+  outline-color: #febaad; }
+
+.out-pink-sherbert {
+  outline-color: #f7a38e; }
+
+.out-burnt-sienna {
+  outline-color: #e97451; }
+
+.out-brown {
+  outline-color: #af593e; }
+
+.out-sepia {
+  outline-color: #9e5b40; }
+
+.out-fuzzy-wuzzy {
+  outline-color: #CC6666; }
+
+.out-chesnut {
+  outline-color: #bc5d58; }
+
+.out-beaver {
+  outline-color: #926f5b; }
+
+.out-tumbleweed {
+  outline-color: #dea681; }
+
+.out-raw-sienna {
+  outline-color: #d27d46; }
+
+.out-tan {
+  outline-color: #d99a6c; }
+
+.out-desert-sand {
+  outline-color: #edc9af; }
+
+.out-peach {
+  outline-color: #ffcba4; }
+
+.out-apricot {
+  outline-color: #fdd5b1; }
+
+.out-almond {
+  outline-color: #eed9c4; }
+
+.out-shadow {
+  outline-color: #837050; }
+
+.out-white {
+  outline-color: #ffffff; }
+
+.out-timberwolf {
+  outline-color: #d9d6cf; }
+
+.out-gray {
+  outline-color: #8b8680; }
+
+.out-black {
+  outline-color: #000000; }
+
+.out-gold {
+  outline-color: #92926e; }
+
+.out-silver {
+  outline-color: #c9c0bb; }
+
+.out-copper {
+  outline-color: #da8a67; }
+
+.out-antique-brass {
+  outline-color: #c88a65; }
+
+/* SASS Document */
+/* Import Color Library */
+/* SASS Document */
+.txt-red {
+  color: #ed0a3f; }
+
+.txt-radical-red {
+  color: #ff355e; }
+
+.txt-maroon {
+  color: #c32148; }
+
+.txt-wild-watermelon {
+  color: #fd5b78; }
+
+.txt-scarlet {
+  color: #fd0e35; }
+
+.txt-brick-red {
+  color: #c62d42; }
+
+.txt-sunset-orange {
+  color: #fe4c40; }
+
+.txt-bittersweet {
+  color: #fe6f5e; }
+
+.txt-outrageous-orange {
+  color: #ff6037; }
+
+.txt-vivid-tangerine {
+  color: #ff9980; }
+
+.txt-burnt-orange {
+  color: #ff7f49; }
+
+.txt-red-orange {
+  color: #ff681f; }
+
+.txt-orange {
+  color: #ff8833; }
+
+.txt-mango-tango {
+  color: #e77200; }
+
+.txt-atomic-tangerine {
+  color: #ff9966; }
+
+.txt-macaroni-cheese {
+  color: #ffb97b; }
+
+.txt-neon-carrot {
+  color: #ff9933; }
+
+.txt-yellow-orange {
+  color: #ffae42; }
+
+.txt-banana-mania {
+  color: #fbe7b2; }
+
+.txt-sunglow {
+  color: #ffCC33; }
+
+.txt-goldenrod {
+  color: #fcd667; }
+
+.txt-dandelion {
+  color: #fed85d; }
+
+.txt-yellow {
+  color: #fbe870; }
+
+.txt-laser-lemon {
+  color: #ffff66; }
+
+.txt-unmellow-yellow {
+  color: #fdfc74; }
+
+.txt-canary {
+  color: #ffff99; }
+
+.txt-green-yellow {
+  color: #f1e788; }
+
+.txt-spring-green {
+  color: #ecebbd; }
+
+.txt-olive-green {
+  color: #b5b35c; }
+
+.txt-yellow-green {
+  color: #c5E17a; }
+
+.txt-inchworm {
+  color: #afe313; }
+
+.txt-asparagus {
+  color: #7ba05b; }
+
+.txt-granny-smith-apple {
+  color: #9de093; }
+
+.txt-electric-lime {
+  color: #ccff00; }
+
+.txt-screamin-green {
+  color: #66ff66; }
+
+.txt-fern {
+  color: #63b76c; }
+
+.txt-forest-green {
+  color: #5fa777; }
+
+.txt-sea-green {
+  color: #93dfb8; }
+
+.txt-green {
+  color: #1cac78; }
+
+.txt-mountain-meadow {
+  color: #30ba8F; }
+
+.txt-shamrock {
+  color: #45cea2; }
+
+.txt-jungle-green {
+  color: #29ab87; }
+
+.txt-caribbean-green {
+  color: #00cc99; }
+
+.txt-tropical-rain-forest {
+  color: #00755e; }
+
+.txt-pine-green {
+  color: #01786f; }
+
+.txt-robin-egg-blue {
+  color: #00cccc; }
+
+.txt- {
+  color: #95e0e8; }
+
+.txt-turquoise-blue {
+  color: #6cdae7; }
+
+.txt-sky-blue {
+  color: #76d7ea; }
+
+.txt-outer-space {
+  color: #2d383a; }
+
+.txt-blue-green {
+  color: #0095b7; }
+
+.txt-pacific-blue {
+  color: #009dc4; }
+
+.txt-cerulean {
+  color: #02a4d3; }
+
+.txt-cornflower {
+  color: #93ccea; }
+
+.txt-midnight-blue {
+  color: #00468c; }
+
+.txt-navy-blue {
+  color: #0066cc; }
+
+.txt-denim {
+  color: #1560bd; }
+
+.txt-blue {
+  color: #0066ff; }
+
+.txt-periwinkle {
+  color: #c3cde6; }
+
+.txt-cadet-blue {
+  color: #a9b2c3; }
+
+.txt-indigo {
+  color: #4f69c6; }
+
+.txt-wild-blue-yonder {
+  color: #7a89ba; }
+
+.txt-manatee {
+  color: #8d90a1; }
+
+.txt-ultramarine-blue {
+  color: #3f26bf; }
+
+.txt-blue-violet {
+  color: #6456b7; }
+
+.txt-purple-heart {
+  color: #652dc1; }
+
+.txt-royal-purple {
+  color: #6b3fa0; }
+
+.txt-purple-mountain-majesty {
+  color: #9d81ba; }
+
+.txt-violet-purple {
+  color: #926eae; }
+
+.txt-wisteria {
+  color: #c9a0dc; }
+
+.txt-vivid-violet {
+  color: #803790; }
+
+.txt-fuchsia {
+  color: #c15fc1; }
+
+.txt-plum {
+  color: #8e3179; }
+
+.txt-shocking-pink {
+  color: #ff6eff; }
+
+.txt-pink-flamingo {
+  color: #fc74fd; }
+
+.txt-hot-magenta {
+  color: #ff00cc; }
+
+.txt-purple-pizzazz {
+  color: #ff00cc; }
+
+.txt-razzle-dazzle-rose {
+  color: #ee34d2; }
+
+.txt-orchid {
+  color: #e29cd2; }
+
+.txt-red-violet {
+  color: #bb3385; }
+
+.txt-eggplant {
+  color: #614051; }
+
+.txt-cerise {
+  color: #da3287; }
+
+.txt-wild-strawberry {
+  color: #ff3399; }
+
+.txt-magenta {
+  color: #f653a6; }
+
+.txt-lavender {
+  color: #fbaed2; }
+
+.txt-cotton-candy {
+  color: #ffb7d5; }
+
+.txt-violet-red {
+  color: #f7468a; }
+
+.txt-carnation-pink {
+  color: #ffa6c9; }
+
+.txt-razzmatazz {
+  color: #e30b5c; }
+
+.txt-pig-pink {
+  color: #fdd7e4; }
+
+.txt-jazzberry-jam {
+  color: #a50b5e; }
+
+.txt-blush {
+  color: #db5079; }
+
+.txt-tickle-me-pink {
+  color: #fc80a5; }
+
+.txt-salmon {
+  color: #ff91a4; }
+
+.txt-mauvelous {
+  color: #f091a9; }
+
+.txt-mahogany {
+  color: #cd4a4a; }
+
+.txt-melon {
+  color: #febaad; }
+
+.txt-pink-sherbert {
+  color: #f7a38e; }
+
+.txt-burnt-sienna {
+  color: #e97451; }
+
+.txt-brown {
+  color: #af593e; }
+
+.txt-sepia {
+  color: #9e5b40; }
+
+.txt-fuzzy-wuzzy {
+  color: #CC6666; }
+
+.txt-chesnut {
+  color: #bc5d58; }
+
+.txt-beaver {
+  color: #926f5b; }
+
+.txt-tumbleweed {
+  color: #dea681; }
+
+.txt-raw-sienna {
+  color: #d27d46; }
+
+.txt-tan {
+  color: #d99a6c; }
+
+.txt-desert-sand {
+  color: #edc9af; }
+
+.txt-peach {
+  color: #ffcba4; }
+
+.txt-apricot {
+  color: #fdd5b1; }
+
+.txt-almond {
+  color: #eed9c4; }
+
+.txt-shadow {
+  color: #837050; }
+
+.txt-white {
+  color: #ffffff; }
+
+.txt-timberwolf {
+  color: #d9d6cf; }
+
+.txt-gray {
+  color: #8b8680; }
+
+.txt-black {
+  color: #000000; }
+
+.txt-gold {
+  color: #92926e; }
+
+.txt-silver {
+  color: #c9c0bb; }
+
+.txt-copper {
+  color: #da8a67; }
+
+.txt-antique-brass {
+  color: #c88a65; }
+
+/* SASS Document */
+/* Import Color Library */
+/* SASS Document */
+.dcr-red {
+  text-decoration-color: #ed0a3f; }
+
+.dcr-radical-red {
+  text-decoration-color: #ff355e; }
+
+.dcr-maroon {
+  text-decoration-color: #c32148; }
+
+.dcr-wild-watermelon {
+  text-decoration-color: #fd5b78; }
+
+.dcr-scarlet {
+  text-decoration-color: #fd0e35; }
+
+.dcr-brick-red {
+  text-decoration-color: #c62d42; }
+
+.dcr-sunset-orange {
+  text-decoration-color: #fe4c40; }
+
+.dcr-bittersweet {
+  text-decoration-color: #fe6f5e; }
+
+.dcr-outrageous-orange {
+  text-decoration-color: #ff6037; }
+
+.dcr-vivid-tangerine {
+  text-decoration-color: #ff9980; }
+
+.dcr-burnt-orange {
+  text-decoration-color: #ff7f49; }
+
+.dcr-red-orange {
+  text-decoration-color: #ff681f; }
+
+.dcr-orange {
+  text-decoration-color: #ff8833; }
+
+.dcr-mango-tango {
+  text-decoration-color: #e77200; }
+
+.dcr-atomic-tangerine {
+  text-decoration-color: #ff9966; }
+
+.dcr-macaroni-cheese {
+  text-decoration-color: #ffb97b; }
+
+.dcr-neon-carrot {
+  text-decoration-color: #ff9933; }
+
+.dcr-yellow-orange {
+  text-decoration-color: #ffae42; }
+
+.dcr-banana-mania {
+  text-decoration-color: #fbe7b2; }
+
+.dcr-sunglow {
+  text-decoration-color: #ffCC33; }
+
+.dcr-goldenrod {
+  text-decoration-color: #fcd667; }
+
+.dcr-dandelion {
+  text-decoration-color: #fed85d; }
+
+.dcr-yellow {
+  text-decoration-color: #fbe870; }
+
+.dcr-laser-lemon {
+  text-decoration-color: #ffff66; }
+
+.dcr-unmellow-yellow {
+  text-decoration-color: #fdfc74; }
+
+.dcr-canary {
+  text-decoration-color: #ffff99; }
+
+.dcr-green-yellow {
+  text-decoration-color: #f1e788; }
+
+.dcr-spring-green {
+  text-decoration-color: #ecebbd; }
+
+.dcr-olive-green {
+  text-decoration-color: #b5b35c; }
+
+.dcr-yellow-green {
+  text-decoration-color: #c5E17a; }
+
+.dcr-inchworm {
+  text-decoration-color: #afe313; }
+
+.dcr-asparagus {
+  text-decoration-color: #7ba05b; }
+
+.dcr-granny-smith-apple {
+  text-decoration-color: #9de093; }
+
+.dcr-electric-lime {
+  text-decoration-color: #ccff00; }
+
+.dcr-screamin-green {
+  text-decoration-color: #66ff66; }
+
+.dcr-fern {
+  text-decoration-color: #63b76c; }
+
+.dcr-forest-green {
+  text-decoration-color: #5fa777; }
+
+.dcr-sea-green {
+  text-decoration-color: #93dfb8; }
+
+.dcr-green {
+  text-decoration-color: #1cac78; }
+
+.dcr-mountain-meadow {
+  text-decoration-color: #30ba8F; }
+
+.dcr-shamrock {
+  text-decoration-color: #45cea2; }
+
+.dcr-jungle-green {
+  text-decoration-color: #29ab87; }
+
+.dcr-caribbean-green {
+  text-decoration-color: #00cc99; }
+
+.dcr-tropical-rain-forest {
+  text-decoration-color: #00755e; }
+
+.dcr-pine-green {
+  text-decoration-color: #01786f; }
+
+.dcr-robin-egg-blue {
+  text-decoration-color: #00cccc; }
+
+.dcr- {
+  text-decoration-color: #95e0e8; }
+
+.dcr-turquoise-blue {
+  text-decoration-color: #6cdae7; }
+
+.dcr-sky-blue {
+  text-decoration-color: #76d7ea; }
+
+.dcr-outer-space {
+  text-decoration-color: #2d383a; }
+
+.dcr-blue-green {
+  text-decoration-color: #0095b7; }
+
+.dcr-pacific-blue {
+  text-decoration-color: #009dc4; }
+
+.dcr-cerulean {
+  text-decoration-color: #02a4d3; }
+
+.dcr-cornflower {
+  text-decoration-color: #93ccea; }
+
+.dcr-midnight-blue {
+  text-decoration-color: #00468c; }
+
+.dcr-navy-blue {
+  text-decoration-color: #0066cc; }
+
+.dcr-denim {
+  text-decoration-color: #1560bd; }
+
+.dcr-blue {
+  text-decoration-color: #0066ff; }
+
+.dcr-periwinkle {
+  text-decoration-color: #c3cde6; }
+
+.dcr-cadet-blue {
+  text-decoration-color: #a9b2c3; }
+
+.dcr-indigo {
+  text-decoration-color: #4f69c6; }
+
+.dcr-wild-blue-yonder {
+  text-decoration-color: #7a89ba; }
+
+.dcr-manatee {
+  text-decoration-color: #8d90a1; }
+
+.dcr-ultramarine-blue {
+  text-decoration-color: #3f26bf; }
+
+.dcr-blue-violet {
+  text-decoration-color: #6456b7; }
+
+.dcr-purple-heart {
+  text-decoration-color: #652dc1; }
+
+.dcr-royal-purple {
+  text-decoration-color: #6b3fa0; }
+
+.dcr-purple-mountain-majesty {
+  text-decoration-color: #9d81ba; }
+
+.dcr-violet-purple {
+  text-decoration-color: #926eae; }
+
+.dcr-wisteria {
+  text-decoration-color: #c9a0dc; }
+
+.dcr-vivid-violet {
+  text-decoration-color: #803790; }
+
+.dcr-fuchsia {
+  text-decoration-color: #c15fc1; }
+
+.dcr-plum {
+  text-decoration-color: #8e3179; }
+
+.dcr-shocking-pink {
+  text-decoration-color: #ff6eff; }
+
+.dcr-pink-flamingo {
+  text-decoration-color: #fc74fd; }
+
+.dcr-hot-magenta {
+  text-decoration-color: #ff00cc; }
+
+.dcr-purple-pizzazz {
+  text-decoration-color: #ff00cc; }
+
+.dcr-razzle-dazzle-rose {
+  text-decoration-color: #ee34d2; }
+
+.dcr-orchid {
+  text-decoration-color: #e29cd2; }
+
+.dcr-red-violet {
+  text-decoration-color: #bb3385; }
+
+.dcr-eggplant {
+  text-decoration-color: #614051; }
+
+.dcr-cerise {
+  text-decoration-color: #da3287; }
+
+.dcr-wild-strawberry {
+  text-decoration-color: #ff3399; }
+
+.dcr-magenta {
+  text-decoration-color: #f653a6; }
+
+.dcr-lavender {
+  text-decoration-color: #fbaed2; }
+
+.dcr-cotton-candy {
+  text-decoration-color: #ffb7d5; }
+
+.dcr-violet-red {
+  text-decoration-color: #f7468a; }
+
+.dcr-carnation-pink {
+  text-decoration-color: #ffa6c9; }
+
+.dcr-razzmatazz {
+  text-decoration-color: #e30b5c; }
+
+.dcr-pig-pink {
+  text-decoration-color: #fdd7e4; }
+
+.dcr-jazzberry-jam {
+  text-decoration-color: #a50b5e; }
+
+.dcr-blush {
+  text-decoration-color: #db5079; }
+
+.dcr-tickle-me-pink {
+  text-decoration-color: #fc80a5; }
+
+.dcr-salmon {
+  text-decoration-color: #ff91a4; }
+
+.dcr-mauvelous {
+  text-decoration-color: #f091a9; }
+
+.dcr-mahogany {
+  text-decoration-color: #cd4a4a; }
+
+.dcr-melon {
+  text-decoration-color: #febaad; }
+
+.dcr-pink-sherbert {
+  text-decoration-color: #f7a38e; }
+
+.dcr-burnt-sienna {
+  text-decoration-color: #e97451; }
+
+.dcr-brown {
+  text-decoration-color: #af593e; }
+
+.dcr-sepia {
+  text-decoration-color: #9e5b40; }
+
+.dcr-fuzzy-wuzzy {
+  text-decoration-color: #CC6666; }
+
+.dcr-chesnut {
+  text-decoration-color: #bc5d58; }
+
+.dcr-beaver {
+  text-decoration-color: #926f5b; }
+
+.dcr-tumbleweed {
+  text-decoration-color: #dea681; }
+
+.dcr-raw-sienna {
+  text-decoration-color: #d27d46; }
+
+.dcr-tan {
+  text-decoration-color: #d99a6c; }
+
+.dcr-desert-sand {
+  text-decoration-color: #edc9af; }
+
+.dcr-peach {
+  text-decoration-color: #ffcba4; }
+
+.dcr-apricot {
+  text-decoration-color: #fdd5b1; }
+
+.dcr-almond {
+  text-decoration-color: #eed9c4; }
+
+.dcr-shadow {
+  text-decoration-color: #837050; }
+
+.dcr-white {
+  text-decoration-color: #ffffff; }
+
+.dcr-timberwolf {
+  text-decoration-color: #d9d6cf; }
+
+.dcr-gray {
+  text-decoration-color: #8b8680; }
+
+.dcr-black {
+  text-decoration-color: #000000; }
+
+.dcr-gold {
+  text-decoration-color: #92926e; }
+
+.dcr-silver {
+  text-decoration-color: #c9c0bb; }
+
+.dcr-copper {
+  text-decoration-color: #da8a67; }
+
+.dcr-antique-brass {
+  text-decoration-color: #c88a65; }
+
+/* SASS Document */
+.fnt-serif {
+  font-family: 'Lusitana', serif; }
+
+.fnt-sans-serif {
+  font-family: 'Ubuntu', sans-serif; }
+
+.fnt-display {
+  font-family: 'Iceland', cursive; }
+
+.fnt-cursive {
+  font-family: 'Sacramento', cursive; }
+
+.fnt-monospace {
+  font-family: 'VT323', monospace; }
+
+/* SASS Document */
+/* VARIABLES */
+/* ELEMENTS */
+h2 {
+  text-align: center; }
+
+section {
+  display: flex;
+  flex-wrap: wrap; }
+
+/* CLASSES */
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12 {
+  padding-left: 0;
+  padding-right: 0; }
+
+.crayon {
+  cursor: pointer;
+  display: block;
+  float: left;
+  font-size: 'large';
+  height: 256px;
+  width: 32px; }
+  .crayon .tip {
+    height: 12.5%; }
+    .crayon .tip .edge {
+      height: 10%; }
+    .crayon .tip .point {
+      height: 90%; }
+    .crayon .tip .layer {
+      bottom: 5%;
+      display: block;
+      height: 5%;
+      margin: auto;
+      position: relative;
+      width: 100%; }
+    .crayon .tip .layer-01 {
+      width: 95%; }
+    .crayon .tip .layer-02 {
+      width: 90%; }
+    .crayon .tip .layer-03 {
+      width: 85%; }
+    .crayon .tip .layer-04 {
+      width: 80%; }
+    .crayon .tip .layer-05 {
+      width: 75%; }
+    .crayon .tip .layer-06 {
+      width: 70%; }
+    .crayon .tip .layer-07 {
+      width: 65%; }
+    .crayon .tip .layer-08 {
+      width: 60%; }
+    .crayon .tip .layer-09 {
+      width: 55%; }
+    .crayon .tip .layer-10 {
+      width: 50%; }
+    .crayon .tip .layer-11 {
+      width: 45%; }
+    .crayon .tip .layer-12 {
+      width: 40%; }
+    .crayon .tip .layer-13 {
+      width: 35%; }
+    .crayon .tip .layer-14 {
+      width: 30%; }
+    .crayon .tip .layer-15 {
+      width: 25%; }
+    .crayon .tip .layer-16 {
+      width: 20%; }
+    .crayon .tip .layer-17 {
+      width: 15%; }
+    .crayon .tip .layer-18 {
+      width: 10%; }
+  .crayon .body {
+    height: 87.5%; }
+    .crayon .body .wrapper {
+      height: 95%;
+      opacity: .4; }
+      .crayon .body .wrapper .stripe {
+        height: 10%; }
+      .crayon .body .wrapper .box {
+        height: 52.5%;
+        opacity: 1; }
+        .crayon .body .wrapper .box .logo {
+          width: 66%; }
+          .crayon .body .wrapper .box .logo p {
+            position: relative;
+            opacity: 1;
+            text-align: center;
+            transform: rotate(90deg); }
+
+.crayon-inv {
+  cursor: pointer;
+  display: block;
+  float: left;
+  font-size: 'large';
+  height: 256px;
+  width: 32px; }
+  .crayon-inv .tip {
+    height: 12.5%; }
+    .crayon-inv .tip .edge {
+      height: 10%; }
+    .crayon-inv .tip .point {
+      height: 90%; }
+    .crayon-inv .tip .layer {
+      bottom: 5%;
+      display: block;
+      height: 5%;
+      margin: auto;
+      position: relative;
+      width: 100%; }
+    .crayon-inv .tip .layer-01 {
+      width: 95%; }
+    .crayon-inv .tip .layer-02 {
+      width: 90%; }
+    .crayon-inv .tip .layer-03 {
+      width: 85%; }
+    .crayon-inv .tip .layer-04 {
+      width: 80%; }
+    .crayon-inv .tip .layer-05 {
+      width: 75%; }
+    .crayon-inv .tip .layer-06 {
+      width: 70%; }
+    .crayon-inv .tip .layer-07 {
+      width: 65%; }
+    .crayon-inv .tip .layer-08 {
+      width: 60%; }
+    .crayon-inv .tip .layer-09 {
+      width: 55%; }
+    .crayon-inv .tip .layer-10 {
+      width: 50%; }
+    .crayon-inv .tip .layer-11 {
+      width: 45%; }
+    .crayon-inv .tip .layer-12 {
+      width: 40%; }
+    .crayon-inv .tip .layer-13 {
+      width: 35%; }
+    .crayon-inv .tip .layer-14 {
+      width: 30%; }
+    .crayon-inv .tip .layer-15 {
+      width: 25%; }
+    .crayon-inv .tip .layer-16 {
+      width: 20%; }
+    .crayon-inv .tip .layer-17 {
+      width: 15%; }
+    .crayon-inv .tip .layer-18 {
+      width: 10%; }
+  .crayon-inv .body {
+    height: 87.5%; }
+    .crayon-inv .body .wrapper {
+      height: 95%;
+      opacity: .4; }
+      .crayon-inv .body .wrapper .stripe {
+        height: 10%; }
+      .crayon-inv .body .wrapper .box {
+        height: 52.5%;
+        opacity: 1; }
+        .crayon-inv .body .wrapper .box .logo {
+          width: 66%; }
+          .crayon-inv .body .wrapper .box .logo p {
+            position: relative;
+            opacity: 1;
+            text-align: center;
+            transform: rotate(90deg); }
+
+.crayon-head {
+  width: 32px;
+  height: 32px;
+  display: block;
+  float: left; }
+  .crayon-head .tip {
+    height: 100%; }
+    .crayon-head .tip .edge {
+      height: 10%; }
+    .crayon-head .tip .point {
+      height: 90%; }
+    .crayon-head .tip .layer {
+      bottom: 5%;
+      display: block;
+      height: 5%;
+      margin: auto;
+      position: relative;
+      width: 100%; }
+    .crayon-head .tip .layer-01 {
+      width: 95%; }
+    .crayon-head .tip .layer-02 {
+      width: 90%; }
+    .crayon-head .tip .layer-03 {
+      width: 85%; }
+    .crayon-head .tip .layer-04 {
+      width: 80%; }
+    .crayon-head .tip .layer-05 {
+      width: 75%; }
+    .crayon-head .tip .layer-06 {
+      width: 70%; }
+    .crayon-head .tip .layer-07 {
+      width: 65%; }
+    .crayon-head .tip .layer-08 {
+      width: 60%; }
+    .crayon-head .tip .layer-09 {
+      width: 55%; }
+    .crayon-head .tip .layer-10 {
+      width: 50%; }
+    .crayon-head .tip .layer-11 {
+      width: 45%; }
+    .crayon-head .tip .layer-12 {
+      width: 40%; }
+    .crayon-head .tip .layer-13 {
+      width: 35%; }
+    .crayon-head .tip .layer-14 {
+      width: 30%; }
+    .crayon-head .tip .layer-15 {
+      width: 25%; }
+    .crayon-head .tip .layer-16 {
+      width: 20%; }
+    .crayon-head .tip .layer-17 {
+      width: 15%; }
+    .crayon-head .tip .layer-18 {
+      width: 10%; }
+
+.fa-plus-square-o,
+.fa-minus-square-o {
+  cursor: pointer;
+  font-size: 18pt;
+  height: 32px;
+  width: 32px; }
+
+.jumbotron-fluid {
+  padding-bottom: 66px; }
+
+.row {
+  margin-right: 0;
+  margin-left: 0; }
+
+/* IDs */
+#box-outside {
+  height: 256px; }
+
+#btn-close-row-1,
+#btn-close-row-2,
+#btn-close-row-3,
+#btn-close-row-4 {
+  display: block;
+  width: 100%;
+  height: auto; }
+
+#btn-open-row-1,
+#btn-open-row-2,
+#btn-open-row-3,
+#btn-open-row-4 {
+  display: none;
+  width: 100%;
+  height: auto; }
+
+#description {
+  margin-bottom: 32px; }
+
+#detail-one,
+#detail-two,
+#detail-three,
+#detail-four {
+  display: none; }
+
+#minus-one,
+#minus-two,
+#minus-three,
+#minus-four {
+  display: none;
+  width: 32px;
+  height: 32px; }

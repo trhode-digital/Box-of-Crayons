@@ -1,0 +1,386 @@
+/* SASS Document */
+
+/* Import Custom Library */
+@import '../../../styles/colors/_library'; // Colors
+@import '../../../styles/fonts/_library';  // Fonts
+
+// Color Variables
+@import '../../../styles/colors/modules/_colors';
+
+
+/* VARIABLES */
+$dft-size: 32px;
+
+/* ELEMENTS */
+
+h2 {
+	text-align: center;
+}
+
+section {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+/* CLASSES */
+
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12 {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.crayon {
+	cursor: pointer;
+	display: block;
+	float: left;
+	font-size: 'large';
+	height: $dft-size*8;
+	width: $dft-size;
+	.tip {
+		height: 12.5%;
+		.edge {
+			height: 10%;
+		}
+		.point {
+			height: 90%;
+		}
+		.layer {
+			bottom: 5%;
+			display: block;
+			height: 5%;
+			margin: auto;
+			position: relative;
+			width: 100%;
+		}
+		.layer-01 {
+			width: 95%;
+		}
+		.layer-02 {
+			width: 90%;
+		}
+		.layer-03 {
+			width: 85%;
+		}
+		.layer-04 {
+			width: 80%;
+		}
+		.layer-05 {
+			width: 75%;
+		}
+		.layer-06 {
+			width: 70%;
+		}
+		.layer-07 {
+			width: 65%;
+		}
+		.layer-08 {
+			width: 60%;
+		}
+		.layer-09 {
+			width: 55%;
+		}
+		.layer-10 {
+			width: 50%;
+		}
+		.layer-11 {
+			width: 45%;
+		}
+		.layer-12 {
+			width: 40%;
+		}
+		.layer-13 {
+			width: 35%;
+		}
+		.layer-14 {
+			width: 30%;
+		}
+		.layer-15 {
+			width: 25%;
+		}
+		.layer-16 {
+			width: 20%;
+		}
+		.layer-17 {
+			width: 15%;
+		}
+		.layer-18 {
+			width: 10%;
+		}
+	}
+	.body {
+		height: 87.5%;
+		.wrapper {
+			height: 95%;
+			opacity: .4;
+			.stripe {
+				height: 10%;
+			}
+			.box {
+				height: 52.5%;
+				opacity: 1;
+				.logo {
+					width: 66%;
+					p {
+						position: relative;
+						opacity: 1;
+						text-align: center;
+						transform: rotate(90deg);
+					}
+				}
+			}
+		}
+	}
+}
+
+.crayon-inv {
+	cursor: pointer;
+	display: block;
+	float: left;
+	font-size: 'large';
+	height: $dft-size*8;
+	width: $dft-size;
+	.tip {
+		height: 12.5%;
+		.edge {
+			height: 10%;
+		}
+		.point {
+			height: 90%;
+		}
+		.layer {
+			bottom: 5%;
+			display: block;
+			height: 5%;
+			margin: auto;
+			position: relative;
+			width: 100%;
+		}
+		.layer-01 {
+			width: 95%;
+		}
+		.layer-02 {
+			width: 90%;
+		}
+		.layer-03 {
+			width: 85%;
+		}
+		.layer-04 {
+			width: 80%;
+		}
+		.layer-05 {
+			width: 75%;
+		}
+		.layer-06 {
+			width: 70%;
+		}
+		.layer-07 {
+			width: 65%;
+		}
+		.layer-08 {
+			width: 60%;
+		}
+		.layer-09 {
+			width: 55%;
+		}
+		.layer-10 {
+			width: 50%;
+		}
+		.layer-11 {
+			width: 45%;
+		}
+		.layer-12 {
+			width: 40%;
+		}
+		.layer-13 {
+			width: 35%;
+		}
+		.layer-14 {
+			width: 30%;
+		}
+		.layer-15 {
+			width: 25%;
+		}
+		.layer-16 {
+			width: 20%;
+		}
+		.layer-17 {
+			width: 15%;
+		}
+		.layer-18 {
+			width: 10%;
+		}
+	}
+	.body {
+		height: 87.5%;
+		.wrapper {
+			height: 95%;
+			opacity: .4;
+			.stripe {
+				height: 10%;
+			}
+			.box {
+				height: 52.5%;
+				opacity: 1;
+				.logo {
+					width: 66%;
+					p {
+						position: relative;
+						opacity: 1;
+						text-align: center;
+						transform: rotate(90deg);
+					}
+				}
+			}
+		}
+	}
+}
+
+.crayon-head {
+	width: $dft-size;
+	height: $dft-size;
+	display: block;
+	float: left; 
+	.tip {
+		height: 100%;
+		.edge {
+			height: 10%;
+		}
+		.point {
+			height: 90%;
+		}
+		.layer {
+			bottom: 5%;
+			display: block;
+			height: 5%;
+			margin: auto;
+			position: relative;
+			width: 100%;
+		}
+		.layer-01 {
+			width: 95%;
+		}
+		.layer-02 {
+			width: 90%;
+		}
+		.layer-03 {
+			width: 85%;
+		}
+		.layer-04 {
+			width: 80%;
+		}
+		.layer-05 {
+			width: 75%;
+		}
+		.layer-06 {
+			width: 70%;
+		}
+		.layer-07 {
+			width: 65%;
+		}
+		.layer-08 {
+			width: 60%;
+		}
+		.layer-09 {
+			width: 55%;
+		}
+		.layer-10 {
+			width: 50%;
+		}
+		.layer-11 {
+			width: 45%;
+		}
+		.layer-12 {
+			width: 40%;
+		}
+		.layer-13 {
+			width: 35%;
+		}
+		.layer-14 {
+			width: 30%;
+		}
+		.layer-15 {
+			width: 25%;
+		}
+		.layer-16 {
+			width: 20%;
+		}
+		.layer-17 {
+			width: 15%;
+		}
+		.layer-18 {
+			width: 10%;
+		}
+	}
+}
+
+.fa-plus-square-o,
+.fa-minus-square-o {
+	cursor: pointer;
+	font-size: 18pt;
+	height: $dft-size;
+	width: $dft-size;
+}
+
+.jumbotron-fluid {
+	padding-bottom: 66px;
+}
+
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+
+/* IDs */
+
+#box-outside {
+	height: $dft-size*8;
+}
+
+#btn-close-row-1,
+#btn-close-row-2,
+#btn-close-row-3,
+#btn-close-row-4 {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+#btn-open-row-1,
+#btn-open-row-2,
+#btn-open-row-3,
+#btn-open-row-4 {
+	display: none;
+	width: 100%;
+	height: auto;
+}
+
+#description { margin-bottom: 32px; }
+
+#detail-one,
+#detail-two,
+#detail-three,
+#detail-four {
+	display: none;
+}
+
+#minus-one,
+#minus-two,
+#minus-three,
+#minus-four {
+	display: none;
+	width: $dft-size;
+	height: $dft-size;
+}
